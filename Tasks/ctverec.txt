@@ -1,0 +1,1 @@
+Tvar: Ctverec, x: 0, y: 0, strana: 0, Plocha: 0

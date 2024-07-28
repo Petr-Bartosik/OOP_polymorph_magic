@@ -1,0 +1,1 @@
+Tvar: Kruznice, x: 2, y: 2, polomer: 3, Plocha: 28.27

@@ -1,0 +1,1 @@
+Tvar: Elipsa, x: 3, y: 3, sirka: 6, vyska: 4, Plocha: 18.85

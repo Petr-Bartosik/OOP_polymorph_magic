@@ -1,0 +1,1 @@
+Tvar: Obdelnik, x: 1, y: 1, sirka: 1, vyska: 1, Plocha: 1
